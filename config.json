@@ -1,0 +1,9 @@
+{
+    "mysql_host_name": "localhost",
+    "mysql_db_name": "citizens",
+    "mysql_user_name": "root",
+    "mysql_password": "admin123",
+    "mongo_host": "127.0.0.1",
+    "mongo_port": 27810,
+    "mongo_db_name": "citizens"
+}

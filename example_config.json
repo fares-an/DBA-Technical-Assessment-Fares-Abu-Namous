@@ -1,0 +1,9 @@
+{
+    "mysql_host_name": "",
+    "mysql_db_name": "",
+    "mysql_user_name": "",
+    "mysql_password": "",
+    "mongo_host": "",
+    "mongo_port": 27180,
+    "mongo_db_name": ""
+}
